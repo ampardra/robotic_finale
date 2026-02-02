@@ -1,0 +1,1 @@
+joint_state_publisher:joint_state_publisher_gui:rclcpp:robot_state_publisher:ros_gz_bridge:ros_gz_sim:rtabmap_ros:rviz2:sensor_msgs:xacro

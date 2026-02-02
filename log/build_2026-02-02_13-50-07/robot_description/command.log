@@ -1,0 +1,2 @@
+Invoking command in '/home/safar/ProjectROS/ex/src/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/safar/ProjectROS/ex/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/safar/ProjectROS/ex/src/install/robot_description
+Invoked command in '/home/safar/ProjectROS/ex/src/build/robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/safar/ProjectROS/ex/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/safar/ProjectROS/ex/src/install/robot_description

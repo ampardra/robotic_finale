@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from robot_description/srv/PlanPath.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseStamped.idl"
+#include "nav_msgs/msg/Path.idl"
+
+module robot_description {
+  module srv {
+    struct PlanPath_Request {
+      geometry_msgs::msg::PoseStamped goal;
+    };
+    struct PlanPath_Response {
+      nav_msgs::msg::Path path;
+    };
+  };
+};

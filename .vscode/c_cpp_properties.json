@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/safar/ProjectROS/ex/install/pointcloud_to_laserscan/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/safar/ProjectROS/ex/robotic_course/pointcloud_to_laserscan/include/**",
+        "/home/safar/ProjectROS/ex/robotic_course/robot_description/include/**",
+        "/home/safar/ProjectROS/ex/src/pointcloud_to_laserscan/include/**",
+        "/home/safar/ProjectROS/ex/src/robot_description/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

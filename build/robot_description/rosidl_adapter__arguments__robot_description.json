@@ -1,0 +1,6 @@
+{
+  "package_name": "robot_description",
+  "non_idl_tuples": [
+    "/home/safar/ProjectROS/ex/src/robot_description:srv/PlanPath.srv"
+  ]
+}
